@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm working on Networks & Full Stack Development <br>Pursuing Full Stack Developer Job Role 
+Currently working on Networks & Full Stack Development <br>Pursuing Full Stack Developer Job Role 
 
 
 ## 🌐 Socials:
